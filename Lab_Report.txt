@@ -1,3 +1,0 @@
-LAB REPORT – Microservices Application
-
-(omitted for brevity since user already has text in chat; include when exporting)
